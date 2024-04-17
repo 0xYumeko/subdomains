@@ -1,4 +1,4 @@
-A bash script that performs deep range enumeration and verification of a specific region. As for the details of why each section does:
+<h1>A bash script that performs deep range enumeration and verification of a specific region. As for the details of why each section does:</h1>
 ![Screenshot from 2024-04-17 14-29-48](https://github.com/0x3f3c/subdomains/assets/154844497/4cf5da60-30a2-4d5a-9c06-c78a556d63a9)
 
 The script product is defined by the performance_subdomain_enum function that controls the subdomain. This function reads a list of structured domains from a file called subdomains.txt and executes an HTTP and HTTPS request for each subdomain using braid. If the request is successful (i.e. the proximal range can be reached), the script producer prints the proximal range and its corresponding IP address to the console and acquires it in a file called sub.txt.
