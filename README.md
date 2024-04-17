@@ -19,5 +19,11 @@ go get -u github.com/subfinder/subfinder
 ```
 go get -u github.com/subfinder/subfinder
 ```
-
+```
+go get -u github.com/tomnomnom/assetfinder
+```
+# Combine results from multiple tools
+```
+cat <(assetfinder "$domain") <(subfinder -d "$domain") | sort -u > subdomains.txt
+```
 
