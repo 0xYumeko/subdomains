@@ -16,3 +16,8 @@ In short, this execution script measures the exact range and verifies the exact 
 ```
 go get -u github.com/subfinder/subfinder
 ```
+1 ```
+go get -u github.com/subfinder/subfinder
+```
+
+
