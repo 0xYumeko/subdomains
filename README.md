@@ -9,3 +9,10 @@ Next, the script defines the Probe_subdomains function that explores the physica
 The script then calls the probe_subdomains function to explore the physical variations in the sub.txt file.
 Finally, the installation script became practical and the basic combinations. If not, they will be installed using go get.
 In short, this execution script measures the exact range and verifies the exact range using curl, microfinder and stack. It prints the ranges, handles their IP protection to the console, and adds them to a file known as sub.txt.
+
+<h1>give 1 suggestion to continue this code. give code only.</h1>
+
+# Install required tools
+```
+go get -u github.com/subfinder/subfinder
+```
