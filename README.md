@@ -13,9 +13,8 @@ In short, this execution script measures the exact range and verifies the exact 
 <h1>give 1 suggestion to continue this code. give code only.</h1>
 
 # Install required tools
-```
-go get -u github.com/subfinder/subfinder
-```
+
+
 ```
 go get -u github.com/subfinder/subfinder
 ```
